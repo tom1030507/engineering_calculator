@@ -1,0 +1,11 @@
+int a, b, c;  // integer variables 
+float d, e;  // float variables 
+a = 5
+b = 7
+c = (12 + 23) / (a + 12) * (b + 8)
+d = c + 1.2 + sin(45)
+e = d + b * 5.6
+
+sin 90 + cos 0
+(1.2 + 2.3) * ((3.4 / 4.5) / ((-0.6) + 7 * (1 - 1))) ^ 2
+sin(cos(0) + 89) + cos(90) - log(1000 / 10) + exp(2)
