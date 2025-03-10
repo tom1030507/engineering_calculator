@@ -23,7 +23,7 @@ The Engineering Calculator is a C++ program designed to evaluate mathematical ex
 ## Installation
 1. Clone or download the source code:
    ```
-   git clone <repository-url>
+   git clone https://github.com/tom1030507/engineering_calculator.git
    ```
 2. Navigate to the directory containing the source code.
 3. Compile the program using a C++ compiler:
@@ -57,7 +57,7 @@ You'll be prompted to choose a mode: `direct` or `file`.
    12
    > float x;
    > x = sin(90) + cos(0);
-   2.00000
+   2
    > exit
    Variables:
    (a, b, x) = (5, 7, 2.000)
@@ -88,7 +88,7 @@ You'll be prompted to choose a mode: `direct` or `file`.
 6. Output file (`output.txt`):
    ```
    12
-   4.00000
+   4
    Variables:
    (a, b, x) = (5, 7, 2.000)
    ```
